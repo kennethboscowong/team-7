@@ -6,5 +6,7 @@ class Main
        myWindow.setSize(300,200);
        myWindow.setTitle("Hello World!");
        myWindow.setVisible(true);
+       
+       system.out.println("Hello world!")
     }
 }
